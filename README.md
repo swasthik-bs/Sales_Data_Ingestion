@@ -1,5 +1,5 @@
-# Vendor_Performance_Analysis using Python and Power BI by Swasthik BS
-Vendor Performance Summary Dashboard analyzing vendor reliability, delivery performance, cost efficiency, and return trends. Built using Power BI with DAX and Power Query to help improve procurement decisions and identify top and low-performing vendors.
+# Sales_Data_Ingestion using Python and Power BI by Swasthik BS
+Sales_Data_Ingestion Dashboard analyzing vendor reliability, delivery performance, cost efficiency, and return trends. Built using Power BI with DAX and Power Query to help improve procurement decisions and identify top and low-performing vendors.
 
 ## 📂 Project Structure
 ```
@@ -38,6 +38,7 @@ Vendor Performance Summary Dashboard analyzing vendor reliability, delivery perf
 5. Review the final report in `/reports`
 
 ## 📈 Outputs
+- Sales_Data_Ingestion
 - Vendor performance summary CSV
 - Power BI Dashboard
 - Final insights PDF report
